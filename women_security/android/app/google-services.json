@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "35484402019",
+    "project_id": "women-security-a76db",
+    "storage_bucket": "women-security-a76db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35484402019:android:8a6d77e6e1e5b9f2121356",
+        "android_client_info": {
+          "package_name": "com.womensecurity.app.women_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35484402019-9h6btfnt6as744ffkduq746jb50kck6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.womensecurity.app.women_security",
+            "certificate_hash": "db4fd135dd9830229826c5ecab1260d1a025fb6e"
+          }
+        },
+        {
+          "client_id": "35484402019-52bvis79nch91hsa2liilc9mr750dprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYoH_6DgXAm3CSA3oRFnhOE6Rnm2bnUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35484402019-52bvis79nch91hsa2liilc9mr750dprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35484402019:android:3cb33d33a0e63ef9121356",
+        "android_client_info": {
+          "package_name": "com.womensecurity.quick_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35484402019-52bvis79nch91hsa2liilc9mr750dprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYoH_6DgXAm3CSA3oRFnhOE6Rnm2bnUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35484402019-52bvis79nch91hsa2liilc9mr750dprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
